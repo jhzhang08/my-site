@@ -1,10 +1,12 @@
 body {
     background-color: navajowhite;
+    padding-left: 50px;
 }
 .topnav {
     background-color: navajowhite;
     overflow: hidden;
 }
+p.tab { margin-left: 40px; }
 
     /* Style the links inside the navigation bar */
 .topnav a {
